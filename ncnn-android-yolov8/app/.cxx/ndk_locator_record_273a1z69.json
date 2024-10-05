@@ -1,0 +1,11 @@
+{
+  "ndk": "D:\\AndroidSDK\\ndk\\27.1.12297006",
+  "revision": {
+    "mMajor": 27,
+    "mMinor": 1,
+    "mMicro": 12297006,
+    "mPreview": 0,
+    "mPrecision": "MICRO",
+    "mPreviewSeparator": " "
+  }
+}

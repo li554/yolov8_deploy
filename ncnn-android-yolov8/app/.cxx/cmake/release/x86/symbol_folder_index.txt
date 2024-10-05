@@ -1,0 +1,1 @@
+D:\AndroidStudioProjects\ncnn-android-yolov8\ncnn-android-yolov8\app\build\intermediates\cmake\release\obj\x86
